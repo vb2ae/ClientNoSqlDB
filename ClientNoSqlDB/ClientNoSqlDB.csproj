@@ -14,6 +14,7 @@
     <Title>Client No SQL DB</Title>
     <Description>.net standard version of  Lex.DB</Description>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
